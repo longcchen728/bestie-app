@@ -1,7 +1,7 @@
 import streamlit as st
 from streamlit_server_state import server_state, server_state_lock
 
-st.set_page_config(page_title="Long-Distance Bestie Lab", page_icon="🕵️‍♀️")
+st.set_page_config(page_title="Bestie Lab", page_icon="🕵️‍♀️")
 
 st.title("🕵️‍♀️ The Long-Distance Bestie Lab")
 st.write("Take the quiz! Your scores will be compared with your friend's in real-time.")
