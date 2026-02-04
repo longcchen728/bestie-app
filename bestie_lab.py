@@ -3,7 +3,7 @@ from streamlit_server_state import server_state, server_state_lock
 
 st.set_page_config(page_title="Bestie Lab", page_icon="🕵️‍♀️")
 
-st.title("🕵️‍♀️ The Long-Distance Bestie Lab")
+st.title("🕵️‍♀️ Bestie Lab")
 st.write("Take the quiz! Your scores will be compared with your friend's in real-time.")
 
 # 1. This creates the "Shared Chalkboard" in the cloud
